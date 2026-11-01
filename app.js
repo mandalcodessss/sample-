@@ -3,7 +3,7 @@ const CONFIG = {
   name: 'Maple & Moon Café',
   tagline: 'Sample menu · your café name here',
   currency: '₹',
-  sheetCsvUrl: '',          // Google Sheet "Publish to web" CSV link. Empty = use menu.csv
+  sheetCsvUrl: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_ByuGQAFHj6X0_5UjMzDAPNwbabMKot1Vrzf2XXZcGO4NeEmNwFcFmeMmE-NrnylMYqFv4yQOacWE/pub?gid=2141956369&single=true&output=csv',          // Google Sheet "Publish to web" CSV link. Empty = use menu.csv
   logo: 'logo.png',         // café logo file in the same folder (optional)
   brandColor: '#2f6f5e',    // main colour: name, chips, prices
   accentColor: '#e0a458',   // line under the header and tagline
