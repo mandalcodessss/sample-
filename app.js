@@ -1,7 +1,7 @@
 // ===== Edit only this part for each café =====
 const CONFIG = {
   name: 'Maple & Moon Café',
-  tagline: 'Sample menu · your café name here',
+  tagline: 'Sample menu ',
   currency: '₹',
   sheetCsvUrl: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS_ByuGQAFHj6X0_5UjMzDAPNwbabMKot1Vrzf2XXZcGO4NeEmNwFcFmeMmE-NrnylMYqFv4yQOacWE/pub?gid=2141956369&single=true&output=csv',          // Google Sheet "Publish to web" CSV link. Empty = use menu.csv
   logo: 'logo.png',         // café logo file in the same folder (optional)
