@@ -8,7 +8,7 @@ const CONFIG = {
   brandColor: '#2f6f5e',    // main colour: name, chips, prices
   accentColor: '#e0a458',   // line under the header and tagline
   bgColor: '#f6f3ec',       // page background
-  footer: 'Sample menu made by [Your Name] · [Phone]'  // small line at the bottom, '' to hide
+  footer: 'Sample menu made for all cool cafe'  // small line at the bottom, '' to hide
 };
 // =============================================
 
